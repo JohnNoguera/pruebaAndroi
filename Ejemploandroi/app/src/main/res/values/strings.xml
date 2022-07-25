@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejemploandroi</string>
+    <string name="textobienvenida">BIENVENIDOS</string>
+    <string name="texthola">Ejemploandroi</string>
+    <string name="botonejemplo">Aceptar</string>
+    <string name="formulario">Formulario De registro</string>
+    <string name="PersonName">Nombre</string>
+    <string name="FirtsName">Apellido</string>
+    <string name="PersonLocal">Direccion</string>
+    <string name="PersonTelefono">Telefono</string>
+    <string name="Dato">Fecha De Nacimiento</string>
+    <string name="TextDescripcion">Descripcion</string>
+
+</resources>
